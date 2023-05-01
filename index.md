@@ -78,8 +78,8 @@ Some are written under my original family name, "Oinuma (老沼)".
 - [“Deep Learning for ENGINEER” of Japan Deep Learning Association](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/Yk82YUtSaHoybUdoSG54K3pnVjNCZz09)
 - [“TensorFlow Developer Certificate” of Google TensorFlow](https://www.credential.net/3a9b86c9-a62e-4d49-bc5a-815a082b4c3d#gs.wm0d6e)
 - ["Machine Learning Engineering for Production (MLOps)" Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/7XFA7YUYRY52)
-- "Software Design & Development Engineer" [IPA](https://www.ipa.go.jp/en/index.html)
-- "Senior Systems Administrator" [IPA](https://www.ipa.go.jp/en/index.html)
+- "Software Design & Development Engineer" [Information-technology Promotion Agency, Japan](https://www.ipa.go.jp/en/index.html)
+- "Senior Systems Administrator" [Information-technology Promotion Agency, Japan](https://www.ipa.go.jp/en/index.html)
 
 ---
 
