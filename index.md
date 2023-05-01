@@ -111,3 +111,4 @@ Proficient speaker
 ### **Master of Science**
 
 Division of Earth and Planetary Sciences, Kyoto University, March 1997
+
