@@ -83,11 +83,14 @@ Some are written under my original family name, "Oinuma (老沼)".
 
 ---
 
-## 🧠 Patents (As an employee invention)
+## 🧠 Patents
+All patents are in Japan and were conceived as employee inventions.
+Some are written under my original family name, "Oinuma (老沼)". 
 
-- 
-- 
-- 
+- [Patent #6333431](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6333431/E2591989ADAE91B6FBC8D71976B831E8B10420271CEC8404D50D86BFF30E9BAB/15/ja)
+- [Patent #2020-119388](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-119388/D4000BF6EB37193DAC33EDE44C3AC1764CF9EB89307E5141857230AAD235F8F0/11/ja)
+- [Patent #2021-012613](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-012613/2F97CB041875FF3E4ECD5C615E7CDE3444CDE670688DC26E4D9880AC153E73B0/11/ja)
+- [Patent #2021-114300](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-114300/0927F7CE2E9AA00CCE7155602852A494ACE2DB41DC680F0077FEA7AB43C599EF/11/ja)
 
 ---
 
