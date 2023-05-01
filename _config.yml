@@ -1,9 +1,9 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme:
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-# title: Shiro Matsumoto
-# description: My Profile
+title: Shiro Matsumoto
+description: My Profile
 # show_downloads: false
 # google_analytics: [Your Google Analytics tracking ID]
