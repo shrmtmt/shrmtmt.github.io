@@ -1,5 +1,3 @@
-# Shiro Matsumoto
-
 I'm a data science consultant based in Washington D.C., with 25 years of experience in a consulting company. 
 
 Possessing over 25 years of expertise in data analysis (DA), data science (DS), and machine learning (ML) as a senior researcher at Mitsubishi Research Institute, Tokyo. 
