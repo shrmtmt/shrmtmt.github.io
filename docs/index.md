@@ -10,7 +10,7 @@ As a qualified consultant, executed some projects simultaneously and have proven
 
 ![photo](img/Photo.png)
 
-## 📧 Contact information
+## 📧 Contact
 
 [LinkedIn](https://www.linkedin.com/in/srmtmt/)
 
@@ -21,9 +21,9 @@ As a qualified consultant, executed some projects simultaneously and have proven
 [Twitter (In Japanese)](https://twitter.com/shrmtmt)
 
 
-## 👔 **CAREER SUMMARY**
+## 👔 Experience
 
-### **Data Science and Machine Learning**
+### Data Science and Machine Learning
 
 - Led demand forecasting projects using ML in railroad and food distribution companies. For the railroad company, optimized ticket types allocation to each train, which resulted in an increase in annual sales by hundreds of millions of dollars. For the food distributor, reduced inventory and decreased shortages simultaneously resulted in tens of millions of dollars in increased sales and cost savings.
 - Invented a model involving deep learning (DL) and natural language processing (NLP) that predicted employability from an applicant’s resume in corporate recruiting and provided the core logic for a hiring support service offered by a human resource advertising company. Before my work, the partner company had the second-largest market share in the industry in Japan before offering core logic. After my work, it became the largest market share in Japan.
@@ -31,19 +31,19 @@ As a qualified consultant, executed some projects simultaneously and have proven
 - Developed a solution with DL to read the number of boxes, barcodes, and expiration dates at once from an image of items stacked in layers on a pallet. In order to read all this information simultaneously, it was necessary to process ultra-high pixel images, but DL was not good at handling ultra-high pixel images. By properly separating and combining processing at the edge device with the camera and the cloud server, we could meet the required latency and accuracy of information needed. This solution reduced the human resources and costs associated with incoming inspection.
 - Designed and applied an ML model to the screening operations of a guarantee company. The company has improved the quality and equality, and speed of operations of screening that were previously performed manually.
 
-### **Data Analysis for Marketing Science**
+### Data Analysis for Marketing Science
 
 - Designed, conducted, and analyzed an international internet survey using marketing science methods to support the decision-making of chief engineers at a global automaker in planning new vehicles. Product planning for new cars is more critical than product planning for other consumer goods because it takes more than three years (at a considerable cost) to plan, design, prepare for mass production, and launch the product. My work helped to reduce costs by reducing the number of grades while better satisfying consumer needs. To avoid cannibalization with their other products and encourage conversion from other companies, my work used the utility theory of economics and various multivariate analysis methods to find the optimal positioning of the new product scientifically and rationally.
 - Planned and executed an econometric and marketing science analysis of POS (Point of Sales) data and weather data that revealed price elasticities and cross-elasticities for an international beverage manufacturer and improved pricing strategies to an unprecedented level.
 
-### **Data Management for Business Planning and Implementation**
+### Data Management for Business Planning and Implementation
 
 - Provide companion consulting services to credit card companies, including training on analyzing customer and usage data, statistical causal inference, and deriving insights to transform themselves into companies that can realize data-driven marketing.
 - Led the smooth start-up of a newly established company by taking the lead in designing business, service, and operation with designing, planning, and building internal systems, including databases.
 
 ---
 
-## 🏛 EXPERIENCE
+## 🏛 Career
 
 - Independent Consultant, Washington D.C. & Tokyo **2022-**
 - Senior Researcher
@@ -106,6 +106,6 @@ Proficient speaker
 
 ## 🏫 Education
 
-### **Master of Science**
+### Master of Science
 
 Division of Earth and Planetary Sciences, Kyoto University, March 1997
