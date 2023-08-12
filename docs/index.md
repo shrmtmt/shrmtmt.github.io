@@ -1,4 +1,3 @@
-# Shiro Matsumoto
 <img src="img/Photo.png" width="128">
 
 # Data Science Consultant with 25+ Years of Experience
@@ -22,7 +21,7 @@ I'm a seasoned data science consultant based in Washington D.C. I bring over two
 
 - Independent Consultant, Washington D.C. & Tokyo **2022-**
 - Senior Researcher
-Business Digital Transformation Division, Digital Transformation Unit	
+Business Digital \\Transformation Division, Digital Transformation Unit	
 Mitsubishi Research Institute, Tokyo **2010-2022**
 - Researcher
 Marketing Strategy Group, Industry and Market Strategy Research Division	
