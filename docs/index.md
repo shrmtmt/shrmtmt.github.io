@@ -1,4 +1,4 @@
-<img src="img/photo2.png" width="128">
+<img src="img/photo2.jpg" width="128">
 
 # Data Science Consultant with 25+ Years of Experience
 I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
