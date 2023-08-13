@@ -1,13 +1,18 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-analytics
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/slate@v0.2.0
+remote_theme: jekyll/minima
 
 title: Shiro Matsumoto
 description: Data Science Consultant with 25+ Years of Experience
 
 # Analytics
+google_analytics: G-S8JJLWE1JX
+
 analytics:
   provider               : "google-gtag"
   google:
     measurement_id          : "G-S8JJLWE1JX"
+
+plugins:
+- jekyll-analytics
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
