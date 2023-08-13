@@ -2,11 +2,15 @@
 
 I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
 
+---
+
 ## Contact
 [<img src="img/linkedin-icon.png" width="32">](https://www.linkedin.com/in/srmtmt/)
 [<img src="img/medium-icon.png" width="32">](https://medium.com/@shrmtmt)
 [<img src="img/facebook-icon.png" width="32">](https://www.facebook.com/shiromatz)
 [<img src="img/twitter-icon.png" width="32">](https://twitter.com/shrmtmt)
+
+---
 
 ## Recent Achievements:
 - Led ML-driven demand forecasting projects in the railroad and food distribution industries, resulting in hundreds of millions of dollars in increased sales and cost savings.
