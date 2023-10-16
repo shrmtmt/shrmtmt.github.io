@@ -5,6 +5,7 @@ I'm a seasoned data science consultant based in Washington D.C. I bring over two
 ---
 
 ## Contact
+[<img src="img/github-icon.png" width="32">](https://github.com/shrmtmt)
 [<img src="img/linkedin-icon.png" width="32">](https://www.linkedin.com/in/srmtmt/)
 [<img src="img/medium-icon.png" width="32">](https://medium.com/@shrmtmt)
 [<img src="img/facebook-icon.png" width="32">](https://www.facebook.com/shiromatz)
@@ -23,18 +24,10 @@ I'm a seasoned data science consultant based in Washington D.C. I bring over two
 ## Career
 
 - Independent Consultant, Washington D.C. & Tokyo **2022-**
-- Senior Researcher
-Business Digital \\Transformation Division, Digital Transformation Unit	
-Mitsubishi Research Institute, Tokyo **2010-2022**
-- Researcher
-Marketing Strategy Group, Industry and Market Strategy Research Division	
-Mitsubishi Research Institute, Tokyo **2002-2010**
-- Assistant Manager
-Business Management Division	
-Houseplus Housing Warranty Corporation (secondment) **1999-2002**
-- Junior Researcher
-Industrial Strategy Research Dept., Corporate Management Division	
-Mitsubishi Research Institute, Tokyo **1997-1999**
+- Senior Researcher, Mitsubishi Research Institute, Tokyo **2010-2022**
+- Researcher, Mitsubishi Research Institute, Tokyo **2002-2010**
+- Assistant Manager, Houseplus Housing Warranty Corporation (secondment) **1999-2002**
+- Junior Researcher, Mitsubishi Research Institute, Tokyo **1997-1999**
 
 ---
 
@@ -100,4 +93,4 @@ Proficient speaker
 
 ### Master of Science
 
-Division of Earth and Planetary Sciences, Kyoto University
+Division of Earth and Planetary Sciences (Geophysics), Kyoto University (Completed)
