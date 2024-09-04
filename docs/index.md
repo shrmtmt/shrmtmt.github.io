@@ -9,12 +9,13 @@ layout: default
   body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f9;
-    color: #333;
+    color: #222;
     text-align: left;
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
-    line-height: 1.5;
+    line-height: 1.75;
+    font-size: 18px;
   }
 
   h1, h2, h3 {
@@ -22,18 +23,18 @@ layout: default
   }
 
   h1 {
-    font-size: 2.2em;
+    font-size: 2.0em;
     text-align: center;
     line-height: 1.0;
   }
 
   h2 {
-    font-size: 1.6em;
+    font-size: 1.5em;
     text-align: center;
   }
 
   h3 {
-    font-size: 1.3em;
+    font-size: 1.25em;
   }
 
   .icon:hover {
