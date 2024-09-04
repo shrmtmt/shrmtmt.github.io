@@ -71,7 +71,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
   <a href="https://github.com/shrmtmt">
     <img src="img/github-icon.png" width="32" alt="GitHub" class="icon">
   </a>
-  <a href="https://www.linkedin.com/in/srmtmt/">
+  <a href="https://www.linkedin.com/in/shiro-matsumoto/">
     <img src="img/linkedin-icon.png" width="32" alt="LinkedIn" class="icon">
   </a>
   <a href="https://medium.com/@shrmtmt">
@@ -80,8 +80,8 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
   <a href="https://www.facebook.com/shiromatz">
     <img src="img/facebook-icon.png" width="32" alt="Facebook" class="icon">
   </a>
-  <a href="https://twitter.com/shrmtmt">
-    <img src="img/twitter-icon.png" width="32" alt="Twitter" class="icon">
+  <a href="https://x.com/shrmtmt">
+    <img src="img/x-icon.png" width="32" alt="Twitter" class="icon">
   </a>
 </div>
 
