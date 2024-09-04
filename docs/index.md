@@ -1,6 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Profile</title>
+  
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <!-- Custom Styles -->
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+
+    h1, h2 {
+      font-family: 'Lato', sans-serif;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+
+    p {
+      font-size: 1.2em;
+      margin: 0.5em 0;
+    }
+  </style>
+</head>
+<body>
+
 <img src="img/photo2.jpg" width="128">
 
-I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
+<p>I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.</p>
 
 ---
 
@@ -79,13 +118,13 @@ Some are written under my original family name, "Oinuma (老沼)".
 
 ## Languages
 
-### Japanese
-
-Native speaker 
-
 ### English
 
 Proficient speaker 
+
+### Japanese
+
+Native speaker 
 
 ---
 
@@ -94,3 +133,6 @@ Proficient speaker
 ### Master of Science
 
 Division of Earth and Planetary Sciences (Geophysics), Kyoto University (Completed)
+
+</body>
+</html>
