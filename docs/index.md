@@ -40,6 +40,7 @@ title: My Profile
     margin-right: auto;
     margin-top: 20px;
     border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   }
 </style>
 
@@ -124,13 +125,13 @@ Some are written under my original family name, "Oinuma (老沼)".
 
 ## Languages
 
-### Japanese
-
-Native speaker 
-
 ### English
 
 Proficient speaker 
+
+### Japanese
+
+Native speaker 
 
 ---
 
