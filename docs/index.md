@@ -17,17 +17,22 @@ layout: default
     line-height: 1.5;
   }
 
-  h1, h2 {
+  h1, h2, h3 {
     font-family: 'Lato', sans-serif;
   }
 
   h1 {
-    font-size: 1.8em;
+    font-size: 1.9em;
     text-align: center;
   }
 
   h2 {
-    font-size: 1.4em;
+    font-size: 1.6em;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 1.3em;
   }
 
   .icon:hover {
@@ -57,7 +62,8 @@ layout: default
 </style>
 
 <img src="img/photo2.jpg" width="128" alt="Profile Picture" class="profile">
-# Data Science Consultant | Machine Learning Expert
+# Shiro Matsumoto
+## Data Science Consultant | Machine Learning Expert
 I'm a seasoned data science consultant based in Washington, D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
 
 <div class="contact">
@@ -80,7 +86,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 ---
 
-## Recent Achievements:
+### Recent Achievements:
 - Led ML-driven demand forecasting projects in the railroad and food distribution industries, resulting in hundreds of millions of dollars in increased sales and cost savings.
 - Pioneered a deep learning and NLP-based model that predicted employability from applicant resumes, elevating the market share of a human resource company to become the industry leader in Japan.
 - Streamlined operations at an international logistics container yard by building a DL and NLP model that predicts the removal time of imported goods, significantly reducing costs.
@@ -88,7 +94,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 ---
 
-## Career
+### Career
 
 - Independent Consultant, Washington D.C. & Tokyo **2022-**
 - Senior Researcher, Mitsubishi Research Institute, Tokyo **2010-2022**
@@ -98,7 +104,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 ---
 
-## Skills
+### Skills
 
 - Programming
     - Python 10+ years
@@ -123,7 +129,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 ---
 
-## Certificates
+### Certificates
 Some are written under my former family name, "Oinuma (老沼)". 
 - [“Deep Learning for ENGINEER” of Japan Deep Learning Association](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/Yk82YUtSaHoybUdoSG54K3pnVjNCZz09)
 - [“TensorFlow Developer Certificate” of Google TensorFlow](https://www.credential.net/3a9b86c9-a62e-4d49-bc5a-815a082b4c3d#gs.wm0d6e)
@@ -133,7 +139,7 @@ Some are written under my former family name, "Oinuma (老沼)".
 
 ---
 
-## Patents
+### Patents
 All patents are in Japan and were conceived as employee inventions.
 Some are written under my former family name, "Oinuma (老沼)". 
 
@@ -144,20 +150,14 @@ Some are written under my former family name, "Oinuma (老沼)".
 
 ---
 
-## Languages
+### Languages
 
-### English
-
-Professional Proficiency
-
-### Japanese
-
-Native 
+- English: Professional Proficiency
+- Japanese: Native 
 
 ---
 
-## Education
+### Education
 
-### Master of Science
-
-Division of Earth and Planetary Sciences (Geophysics), Kyoto University (Completed)
+- Master of Science
+    - Division of Earth and Planetary Sciences (Geophysics), Kyoto University (Completed)
