@@ -60,6 +60,12 @@ layout: default
     margin-top: 20px;
     border-radius: 50%;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, filter 0.3s ease;
+  }
+  
+  img.profile:hover {
+    box-shadow: 0px 8px 20px rgba(255, 215, 0, 0.8);
+    filter: brightness(1.2);
   }
 </style>
 
