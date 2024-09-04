@@ -36,6 +36,16 @@ title: My Profile
     line-height: 1.6;
   }
 
+  ul, ol {
+    font-size: 1.2em;
+    margin-left: 20px;
+  }
+  
+  ul ul, ol ol {
+    font-size: 1.1em;
+    margin-left: 30px;
+  }
+  
   .contact img {
     margin: 10px;
   }
