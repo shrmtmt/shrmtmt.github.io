@@ -29,9 +29,16 @@ title: My Profile
     font-size: 2em;
     margin-bottom: 0.5em;
   }
-    
+
+  .contact {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+  }
+  
   .contact img {
-    margin: 10px;
+    margin: 0;
   }
 
   img.profile {
@@ -46,17 +53,15 @@ title: My Profile
 
 <img src="img/photo2.jpg" width="128" alt="Profile Picture" class="profile">
 
-I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
+I'm a seasoned data science consultant based in Washington, D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
 
----
-
-## Contact
-[<img src="img/github-icon.png" width="32">](https://github.com/shrmtmt)
-[<img src="img/linkedin-icon.png" width="32">](https://www.linkedin.com/in/srmtmt/)
-[<img src="img/medium-icon.png" width="32">](https://medium.com/@shrmtmt)
-[<img src="img/facebook-icon.png" width="32">](https://www.facebook.com/shiromatz)
-[<img src="img/twitter-icon.png" width="32">](https://twitter.com/shrmtmt)
-
+<div class="contact">
+  [<img src="img/github-icon.png" width="32">](https://github.com/shrmtmt)
+  [<img src="img/linkedin-icon.png" width="32">](https://www.linkedin.com/in/srmtmt/)
+  [<img src="img/medium-icon.png" width="32">](https://medium.com/@shrmtmt)
+  [<img src="img/facebook-icon.png" width="32">](https://www.facebook.com/shiromatz)
+  [<img src="img/twitter-icon.png" width="32">](https://twitter.com/shrmtmt)
+</div>
 ---
 
 ## Recent Achievements:
