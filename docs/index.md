@@ -127,7 +127,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 ---
 ### Personality
-- Perseverance in the face of difficulties and setbacks
+- Persevere in the face of difficulties and setbacks
 - Analyze complex information and problems, structure concepts
 - Act and behave with integrity and honesty
 - Proactive and energetic
