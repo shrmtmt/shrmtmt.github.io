@@ -1,8 +1,3 @@
----
-layout: default
-title: My Profile
----
-
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
