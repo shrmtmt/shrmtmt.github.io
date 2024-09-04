@@ -64,7 +64,7 @@ layout: default
   }
   
   img.profile:hover {
-    box-shadow: 0px 8px 20px rgba(255, 215, 0, 0.8);
+    box-shadow: 0px 8px 20px rgba(255, 255, 235, 0.8);
     filter: brightness(1.2);
   }
 </style>
