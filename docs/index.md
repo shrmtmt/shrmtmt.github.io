@@ -3,8 +3,10 @@ layout: default
 title: My Profile
 ---
 
+<!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
+<!-- Custom Styles -->
 <style>
   body {
     font-family: 'Roboto', sans-serif;
@@ -52,11 +54,13 @@ title: My Profile
 
   .contact {
     margin-top: 20px;
+    text-align: center;
   }
 
   .section {
     margin-top: 40px;
   }
+
 </style>
 
 
