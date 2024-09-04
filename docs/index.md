@@ -21,12 +21,12 @@ title: My Profile
   }
 
   h1 {
-    font-size: 2.5em;
+    font-size: 1.8em;
     text-align: center;
   }
 
   h2 {
-    font-size: 2em;
+    font-size: 1.4em;
     margin-bottom: 0.5em;
   }
 
