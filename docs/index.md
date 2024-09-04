@@ -1,7 +1,3 @@
----
-layout: default
-title: My Profile
----
 <title>Shiro Matsumoto</title>
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
@@ -28,7 +24,6 @@ title: My Profile
 
   h2 {
     font-size: 1.4em;
-    margin-bottom: 0.5em;
   }
 
   .icon:hover {
@@ -58,7 +53,7 @@ title: My Profile
 </style>
 
 <img src="img/photo2.jpg" width="128" alt="Profile Picture" class="profile">
-
+# Data Science Consultant | Machine Learning Expert
 I'm a seasoned data science consultant based in Washington, D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
 
 <div class="contact">
