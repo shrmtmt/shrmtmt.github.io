@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+<link rel="icon" href="favicon.png" type="image/png">
 
-<title>Shiro Matsumoto</title>
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
 <style>
@@ -61,6 +61,8 @@ layout: default
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   }
 </style>
+
+<title>Shiro Matsumoto</title>
 
 <img src="img/photo2.jpg" width="128" alt="Profile Picture" class="profile">
 # Shiro Matsumoto
