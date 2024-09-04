@@ -88,7 +88,6 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 </div>
 
 ---
-
 ### Recent Achievements:
 - Led ML-driven demand forecasting projects in the railroad and food distribution industries, resulting in hundreds of millions of dollars in increased sales and cost savings.
 - Pioneered a deep learning and NLP-based model that predicted employability from applicant resumes, elevating the market share of a human resource company to become the industry leader in Japan.
@@ -96,9 +95,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 - Developed an innovative solution to extract critical information from high-resolution images of items stacked on pallets using edge devices and cloud servers, leading to substantial resource and cost savings.
 
 ---
-
 ### Career
-
 - Independent Consultant, Washington D.C. & Tokyo **2022-**
 - Senior Researcher, Mitsubishi Research Institute, Tokyo **2010-2022**
 - Researcher, Mitsubishi Research Institute, Tokyo **2002-2010**
@@ -106,9 +103,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 - Junior Researcher, Mitsubishi Research Institute, Tokyo **1997-1999**
 
 ---
-
 ### Skills
-
 - Programming
     - Python 10+ years
     - SQL 15+ years
@@ -131,7 +126,13 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
     - Knowledge transfer as a in-house lecturer
 
 ---
+### Personality
+- Perseverance in the face of difficulties and setbacks
+- Analyze complex information and problems, structure concepts
+- Act and behave with integrity and honesty
+- Proactive and energetic
 
+---
 ### Certificates
 Some are written under my former family name, "Oinuma (老沼)". 
 - [“Deep Learning for ENGINEER” of Japan Deep Learning Association](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/Yk82YUtSaHoybUdoSG54K3pnVjNCZz09)
@@ -141,7 +142,6 @@ Some are written under my former family name, "Oinuma (老沼)".
 - "Senior Systems Administrator" [Information-technology Promotion Agency, Japan](https://www.ipa.go.jp/en/index.html)
 
 ---
-
 ### Patents
 All patents are in Japan and were conceived as employee inventions.
 Some are written under my former family name, "Oinuma (老沼)". 
@@ -152,15 +152,11 @@ Some are written under my former family name, "Oinuma (老沼)".
 - [Patent #2021-114300](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2021-114300/0927F7CE2E9AA00CCE7155602852A494ACE2DB41DC680F0077FEA7AB43C599EF/11/ja)
 
 ---
-
 ### Languages
-
 - English: Professional Proficiency
 - Japanese: Native 
 
 ---
-
 ### Education
-
 - Master of Science
     - Division of Earth and Planetary Sciences (Geophysics), Kyoto University (Completed)
