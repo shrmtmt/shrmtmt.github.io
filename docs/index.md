@@ -22,8 +22,9 @@ layout: default
   }
 
   h1 {
-    font-size: 1.9em;
+    font-size: 2.2em;
     text-align: center;
+    line-height: 1.2;
   }
 
   h2 {
