@@ -112,27 +112,27 @@
 
   <!-- Profile Section -->
   <div class="profile-container">
-    <img src="img/photo2.jpg" width="128">
+    <img src="img/photo2.jpg" width="128" alt="Profile Picture">
     <h1>Data Science Consultant | Machine Learning Expert</h1>
-    <p>I'm a seasoned data science consultant based in Washington, D.C. I bring over two decades of data analysis, data science, and machine learning expertise. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.</p>
+    <p>I'm a seasoned data science consultant based in Washington D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.</p>
   </div>
 
   <!-- Contact Section -->
   <div style="text-align: center; margin-top: 2em;">
     <a href="https://github.com/shrmtmt">
-      <img src="img/github-icon.png" width="32" class="icon">
+      <img src="img/github-icon.png" width="32" class="icon" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/srmtmt/">
-      <img src="img/linkedin-icon.png" width="32" class="icon">
+      <img src="img/linkedin-icon.png" width="32" class="icon" alt="LinkedIn">
     </a>
     <a href="https://medium.com/@shrmtmt">
-      <img src="img/medium-icon.png" width="32" class="icon">
+      <img src="img/medium-icon.png" width="32" class="icon" alt="Medium">
     </a>
     <a href="https://www.facebook.com/shiromatz">
-      <img src="img/facebook-icon.png" width="32" class="icon">
+      <img src="img/facebook-icon.png" width="32" class="icon" alt="Facebook">
     </a>
     <a href="https://twitter.com/shrmtmt">
-      <img src="img/twitter-icon.png" width="32" class="icon">
+      <img src="img/twitter-icon.png" width="32" class="icon" alt="Twitter">
     </a>
   </div>
 
@@ -172,7 +172,7 @@
 
   <!-- Footer Section -->
   <footer>
-    <p>&copy; 2024 Shiro Matsumoto</p>
+    <p>&copy; 2024 Your Name</p>
     <div>
       <a href="https://github.com/shrmtmt">GitHub</a>
       <a href="https://www.linkedin.com/in/srmtmt/">LinkedIn</a>
