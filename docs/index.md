@@ -29,26 +29,7 @@ title: My Profile
     font-size: 2em;
     margin-bottom: 0.5em;
   }
-
-  p, li {
-    font-size: 1.2em;
-    margin-bottom: 1em;
-    line-height: 1.6;
-  }
-
-  ul, ol {
-    font-size: 1.2em;
-    margin-left: 20px;
-  }
-
-  ul ul, ol ol {
-    font-size: 1.2em;
-  }
-  
-  ul ul ul, ol ol ol {
-    font-size: 1.2em;
-  }
-  
+    
   .contact img {
     margin: 10px;
   }
