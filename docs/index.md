@@ -30,6 +30,11 @@ title: My Profile
     margin-bottom: 0.5em;
   }
 
+  .icon:hover {
+    transform: scale(1.2);
+    transition: transform 0.2s ease-in-out;
+  }
+  
   .contact {
     display: flex;
     justify-content: center;
@@ -57,19 +62,19 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 
 <div class="contact">
   <a href="https://github.com/shrmtmt">
-    <img src="img/github-icon.png" width="32" alt="GitHub">
+    <img src="img/github-icon.png" width="32" alt="GitHub" class="icon">
   </a>
   <a href="https://www.linkedin.com/in/srmtmt/">
-    <img src="img/linkedin-icon.png" width="32" alt="LinkedIn">
+    <img src="img/linkedin-icon.png" width="32" alt="LinkedIn" class="icon">
   </a>
   <a href="https://medium.com/@shrmtmt">
-    <img src="img/medium-icon.png" width="32" alt="Medium">
+    <img src="img/medium-icon.png" width="32" alt="Medium" class="icon">
   </a>
   <a href="https://www.facebook.com/shiromatz">
-    <img src="img/facebook-icon.png" width="32" alt="Facebook">
+    <img src="img/facebook-icon.png" width="32" alt="Facebook" class="icon">
   </a>
   <a href="https://twitter.com/shrmtmt">
-    <img src="img/twitter-icon.png" width="32" alt="Twitter">
+    <img src="img/twitter-icon.png" width="32" alt="Twitter" class="icon">
   </a>
 </div>
 
