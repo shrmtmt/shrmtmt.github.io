@@ -42,11 +42,11 @@ title: My Profile
   }
 
   ul ul, ol ol {
-    font-size: inherit;
+    font-size: 1.2em;
   }
   
   ul ul ul, ol ol ol {
-    font-size: inherit;
+    font-size: 1.2em;
   }
   
   .contact img {
