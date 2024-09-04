@@ -56,12 +56,23 @@ title: My Profile
 I'm a seasoned data science consultant based in Washington, D.C. I bring over two decades of expertise in data analysis, data science, and machine learning. My background as a senior researcher at Mitsubishi Research Institute in Tokyo has equipped me with the skills to drive impactful projects across diverse domains.
 
 <div class="contact">
-  [<img src="img/github-icon.png" width="32">](https://github.com/shrmtmt)
-  [<img src="img/linkedin-icon.png" width="32">](https://www.linkedin.com/in/srmtmt/)
-  [<img src="img/medium-icon.png" width="32">](https://medium.com/@shrmtmt)
-  [<img src="img/facebook-icon.png" width="32">](https://www.facebook.com/shiromatz)
-  [<img src="img/twitter-icon.png" width="32">](https://twitter.com/shrmtmt)
+  <a href="https://github.com/shrmtmt">
+    <img src="img/github-icon.png" width="32" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/srmtmt/">
+    <img src="img/linkedin-icon.png" width="32" alt="LinkedIn">
+  </a>
+  <a href="https://medium.com/@shrmtmt">
+    <img src="img/medium-icon.png" width="32" alt="Medium">
+  </a>
+  <a href="https://www.facebook.com/shiromatz">
+    <img src="img/facebook-icon.png" width="32" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/shrmtmt">
+    <img src="img/twitter-icon.png" width="32" alt="Twitter">
+  </a>
 </div>
+
 ---
 
 ## Recent Achievements:
