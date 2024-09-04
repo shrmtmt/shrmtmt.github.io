@@ -14,6 +14,7 @@ title: My Profile
     padding: 20px;
     max-width: 800px;
     margin: 0 auto;
+    line-height: 1.5;
   }
 
   h1, h2 {
@@ -124,7 +125,7 @@ I'm a seasoned data science consultant based in Washington, D.C. I bring over tw
 ---
 
 ## Certificates
-Some are written under my original family name, "Oinuma (老沼)". 
+Some are written under my former family name, "Oinuma (老沼)". 
 - [“Deep Learning for ENGINEER” of Japan Deep Learning Association](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/Yk82YUtSaHoybUdoSG54K3pnVjNCZz09)
 - [“TensorFlow Developer Certificate” of Google TensorFlow](https://www.credential.net/3a9b86c9-a62e-4d49-bc5a-815a082b4c3d#gs.wm0d6e)
 - ["Machine Learning Engineering for Production (MLOps)" Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/7XFA7YUYRY52)
@@ -135,7 +136,7 @@ Some are written under my original family name, "Oinuma (老沼)".
 
 ## Patents
 All patents are in Japan and were conceived as employee inventions.
-Some are written under my original family name, "Oinuma (老沼)". 
+Some are written under my former family name, "Oinuma (老沼)". 
 
 - [Patent #6333431](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-6333431/E2591989ADAE91B6FBC8D71976B831E8B10420271CEC8404D50D86BFF30E9BAB/15/ja)
 - [Patent #2020-119388](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-2020-119388/D4000BF6EB37193DAC33EDE44C3AC1764CF9EB89307E5141857230AAD235F8F0/11/ja)
@@ -148,11 +149,11 @@ Some are written under my original family name, "Oinuma (老沼)".
 
 ### English
 
-Proficient speaker 
+Professional Proficiency
 
 ### Japanese
 
-Native speaker 
+Native 
 
 ---
 
