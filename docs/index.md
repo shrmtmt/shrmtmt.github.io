@@ -3,18 +3,14 @@ layout: default
 title: My Profile
 ---
 
-<!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
 
-<!-- Custom Styles -->
 <style>
   body {
     font-family: 'Roboto', sans-serif;
     background-color: #f4f4f9;
     color: #333;
     text-align: center;
-    margin: 0;
-    padding: 0;
   }
 
   h1, h2 {
@@ -36,13 +32,13 @@ title: My Profile
   }
 
   .content {
-    width: 80%; 
-    max-width: 800px; 
-    margin: 0 auto; 
-    text-align: left; 
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
     padding: 20px;
     background-color: white;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
   }
 
   img {
@@ -62,6 +58,7 @@ title: My Profile
     margin-top: 40px;
   }
 </style>
+
 
 <div class="content">
   <img src="img/photo2.jpg" width="128" alt="Profile Picture">
